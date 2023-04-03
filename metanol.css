@@ -1,0 +1,16 @@
+body {
+    color: maroon;
+    background-color: maroon;
+}
+
+#tabla1 {
+    width: 80%;
+    margin: auto;
+    border: 1px solid white
+}
+
+.tartalomKozep {
+    text-align: center;
+}
+
+.keret
